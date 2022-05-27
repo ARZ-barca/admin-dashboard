@@ -21,6 +21,10 @@
     --main-font-size: 14px;
 }
 
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
 * {
     margin: 0;
     padding: 0;
